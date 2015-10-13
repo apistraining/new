@@ -31,7 +31,7 @@ For additional instructions on other parameter, please check [Apigee Deploy Grun
 
 ##Contributing
 
-If you would like to contribute, simply fork the repository, push your changes to a branch and send a pull request:
+If you would like to contribute, simply fork the repository, push your changes to a branch and send a pull request :
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
